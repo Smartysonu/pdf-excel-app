@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pdf-excel-app"
+    }
+  },
+  "defaultProject": "pdf-excel-app",
+  "cli": {
+    "analytics": false
+  }
 }
